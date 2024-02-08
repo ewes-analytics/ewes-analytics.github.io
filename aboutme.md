@@ -1,16 +1,13 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About EWES-Analytics
+subtitle: Where did this all start?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+In March 2023 we organised a workshop on analytics applied to wasteater data for infectious diseases. A collection of people from across Europe and beyond spent two days presenting their ongoing work and discussing what research needs there are going forward. We all enjoyed the discussion so much we continued to meet approximately monthly, and worte a paper describing where we think this field will go.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Leading on from this, we've thought about some of the guiding principles of this group 
 
-What else do you need?
+### Guiding Principles
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+They will go here...
