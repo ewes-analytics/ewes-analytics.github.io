@@ -20,11 +20,12 @@ author: Kath O'Reilly
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Us: "aboutme"
+  Seminars: "seminars"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://www.lshtm.ac.uk"
 
 ################
 # --- Logo --- #
